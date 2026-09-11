@@ -1,0 +1,62 @@
+[
+  {
+    "id": "price-manager",
+    "name": "اپ مدیر قیمت — هخامنش",
+    "short": "مدیر قیمت",
+    "desc": "صف استعلام قیمت مهندس مزروعی",
+    "gas": "https://script.google.com/macros/s/AKfycbzifEJPIIfzedIdg1i58q5Bphu_iGb-_mMRZCO2ZMR2su7qvXNMTL_nol8fmAikr7szKg/exec?app=mazrouei",
+    "theme": "#1e3a5f",
+    "accent": "#d4af37",
+    "fast": true
+  },
+  {
+    "id": "price-sales",
+    "name": "اپ بازاریاب قیمت — هخامنش",
+    "short": "بازاریاب",
+    "desc": "ثبت و پیگیری استعلام قیمت بازاریاب",
+    "gas": "https://script.google.com/macros/s/AKfycbzifEJPIIfzedIdg1i58q5Bphu_iGb-_mMRZCO2ZMR2su7qvXNMTL_nol8fmAikr7szKg/exec?app=sales",
+    "theme": "#0f766e",
+    "accent": "#d4af37",
+    "fast": true
+  },
+  {
+    "id": "crm",
+    "name": "اپ مدیر فروش — هخامنش",
+    "short": "مدیر فروش",
+    "desc": "فرم بازدید و کارتابل مدیر فروش CRM",
+    "gas": "https://script.google.com/macros/s/AKfycbx2-RqwLpi9JB6wspeh7En82CQxmkB6WFUsnHqq_idHmhXvyVZVa6up95vOu3AExokBgw/exec",
+    "theme": "#7c2d12",
+    "accent": "#d4af37",
+    "fast": true
+  },
+  {
+    "id": "board",
+    "name": "اپ مدیر فنی — هخامنش",
+    "short": "مدیر فنی",
+    "desc": "برد فنی نصب و خرید هخامنش",
+    "gas": "https://script.google.com/macros/s/AKfycbzQdaCesIqrwM_-ykYF6knzQoaGA7Bx4OvMzf-ZdjFNsfzKoI6MlfVtePL-ItzgNaz4Tg/exec",
+    "theme": "#1e40af",
+    "accent": "#d4af37",
+    "fast": true
+  },
+  {
+    "id": "serviceman",
+    "name": "اپ سرویس‌کار — هخامنش",
+    "short": "سرویس‌کار",
+    "desc": "کارتابل سرویس آسانسور آرین برج هخامنش",
+    "gas": "https://script.google.com/macros/s/AKfycbw2h21bhgg2oVVukdxB2cXS7CdHegRu-caiK8TgQZD9IVQIuQ4g1H20o6MXL2KjT4u4mw/exec",
+    "theme": "#000000",
+    "accent": "#d4af37",
+    "fast": true
+  },
+  {
+    "id": "dashboard",
+    "name": "اپ مدیر هخامنش",
+    "short": "داشبورد",
+    "desc": "داشبورد مرکزی تیکت و استقرار",
+    "gas": "https://script.google.com/macros/s/AKfycbyd2r6ePfpm0__JtiCc_zqyR2xSoec_AhUhkKGTfonHrVEx6pXUbtcG78QUetT1WTMV/exec",
+    "theme": "#0f172a",
+    "accent": "#d4af37",
+    "fast": false
+  }
+]
